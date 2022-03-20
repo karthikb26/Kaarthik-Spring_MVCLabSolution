@@ -26,7 +26,7 @@
     <h3>Student Directory</h3>
     <hr>
 
-    <p class="h4 mb-4">Student Employee</p>
+    <p class="h4 mb-4">Student</p>
 
     <form action="/smsapp/students/save" method="POST">
 
